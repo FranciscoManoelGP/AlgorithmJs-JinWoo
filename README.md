@@ -5,7 +5,8 @@ The system uses me, and I use the system
 
 ## English
 <a name="english"></a>
-
+*A game/dispute between friends to encourage our development in programming.*
+###### Let the games begin!
 1 - Create algorithm that creates a list of HTML elements.
 
 2 - Algorithm that passes elements from 1 array to another.
@@ -108,7 +109,8 @@ The system uses me, and I use the system
 
 ## Português
 <a name="português"></a>
-
+*Uma brincadeira/disputa entre amigos para incentivar nosso desenvolvimento em programação.*
+###### Que os jogos comecem!
 1 - Criar algoritmo que cria uma lista de elementos HTML.
 
 2 - Algoritmo que passa elementos de 1 array pro outro.
